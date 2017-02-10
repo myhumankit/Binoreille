@@ -1,4 +1,5 @@
 # Binoreille
+Code for Binoreille project.
 
 http://myhumankit.org/tutoriels/binoreille-2
 
